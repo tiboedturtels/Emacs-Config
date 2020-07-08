@@ -146,6 +146,7 @@ static char *gnus-pointer[] = {
 (setq magit-git-executable "s:/Administrator/Cam/git/cmd/git.exe")
 
 (global-set-key (kbd "C-x g") 'magit-status)
+;;
 
 (ivy-mode 1)
 
