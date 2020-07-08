@@ -143,7 +143,7 @@ static char *gnus-pointer[] = {
 (windmove-default-keybindings)
 
 ;; Set git location
-(setq magit-git-executable "s:/Administrator/Cam/git/cmd/git.exe")
+;; (setq magit-git-executable "s:/Administrator/Cam/git/cmd/git.exe")
 
 (global-set-key (kbd "C-x g") 'magit-status)
 ;;
